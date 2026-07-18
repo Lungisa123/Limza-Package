@@ -1,0 +1,15 @@
+Package: limza
+Type: Package
+Title: Functions for Data Analysis and Filtering
+Description:  Provides functions for data analysis and filtering,
+    including removing columns, detecting and removing outliers,
+    counting observations, and calculating intervals.
+Version: 1.0.0
+Authors@R: person(
+    "Lungisa", "Mashabela", 
+    email = "mashabelalungisa6@gmail.com",
+    role = c("aut", "cre", "cph")
+    )
+License: MIT + file LICENSE
+Encoding: UTF-8
+Video:https://youtu.be/W6ql2sFEJ5Q
