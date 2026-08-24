@@ -10,7 +10,7 @@ The following functions can be found
 * outliers
 
 ## installing the package
-* download the tarball file i.e.file that ends with **tar.gz**
+* download the tarball file i.e.file that ends with **targz**
 
 in your R working environment
 run the following command 
