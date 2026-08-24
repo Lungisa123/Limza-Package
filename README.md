@@ -9,8 +9,8 @@ The following functions can be found
 * ranjer
 * outliers
 
-## installing the package
-* download the tarball file i.e.file that ends with **tar.gz**
+## Installing the package
+* Download the tarball file i.e.file that ends with **tar.gz**
 
 in your R working environment
 run the following command 
