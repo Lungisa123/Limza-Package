@@ -10,8 +10,8 @@ The following functions can be found
 * outliers
 
 ## installing the package
-* download the tarball file i.e.file that ends with **targz**
+* download the tarball file i.e.file that ends with **tar.gz**
 
 in your R working environment
 run the following command 
-install.packages("limza_1.0.0.tar.gz")
+* install.packages("limza_1.0.0.tar.gz")
