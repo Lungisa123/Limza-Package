@@ -1,4 +1,4 @@
-### Limza R Packages
+8### Limza R Packages
 Video demo: <https://youtu.be/W6ql2sFEJ5Q>
 
 The **Limza** package provides functions for data analysis and filtering,
@@ -14,4 +14,4 @@ The following functions can be found
 
 in your R working environment
 run the following command 
-install.packages("")
+install.packages("limza_1.0.0.tar.gz")
