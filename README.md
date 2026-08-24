@@ -7,4 +7,4 @@ The **Limza** package provides functions for data analysis and filtering,
 The following functions can be found
 * delete_col
  * ranjer
-   *outliers
+   * outliers
