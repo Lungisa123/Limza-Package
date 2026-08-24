@@ -1,4 +1,4 @@
-8### Limza R Packages
+### Limza R Packages
 Video demo: <https://youtu.be/W6ql2sFEJ5Q>
 
 The **Limza** package provides functions for data analysis and filtering,
