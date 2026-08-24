@@ -8,3 +8,10 @@ The following functions can be found
 * delete_col
 * ranjer
 * outliers
+
+## installing the package
+* download the tarball file i.e.file that ends with **tar**
+
+in your R working environment
+run the following command 
+install.packages("")
